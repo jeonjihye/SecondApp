@@ -16,6 +16,8 @@
 		12410D6B26D3560100E69AED /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12410D6A26D3560100E69AED /* SecondViewController.swift */; };
 		12410D6D26D3569000E69AED /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12410D6C26D3569000E69AED /* ThirdViewController.swift */; };
 		12410D6F26D357F900E69AED /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12410D6E26D357F900E69AED /* LoginViewController.swift */; };
+		12410D7126D35BA200E69AED /* TearViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12410D7026D35BA200E69AED /* TearViewController.swift */; };
+		12410D7326D35C9A00E69AED /* IndigoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12410D7226D35C9A00E69AED /* IndigoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		12410D6A26D3560100E69AED /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		12410D6C26D3569000E69AED /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		12410D6E26D357F900E69AED /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		12410D7026D35BA200E69AED /* TearViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TearViewController.swift; sourceTree = "<group>"; };
+		12410D7226D35C9A00E69AED /* IndigoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndigoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,7 @@
 		12410D5326D32BA400E69AED /* SecondApp */ = {
 			isa = PBXGroup;
 			children = (
+				12410D7226D35C9A00E69AED /* IndigoViewController.swift */,
 				12410D5426D32BA400E69AED /* AppDelegate.swift */,
 				12410D5626D32BA400E69AED /* SceneDelegate.swift */,
 				12410D5826D32BA400E69AED /* ViewController.swift */,
@@ -72,6 +77,7 @@
 				12410D6A26D3560100E69AED /* SecondViewController.swift */,
 				12410D6C26D3569000E69AED /* ThirdViewController.swift */,
 				12410D6E26D357F900E69AED /* LoginViewController.swift */,
+				12410D7026D35BA200E69AED /* TearViewController.swift */,
 			);
 			path = SecondApp;
 			sourceTree = "<group>";
@@ -149,8 +155,10 @@
 				12410D6F26D357F900E69AED /* LoginViewController.swift in Sources */,
 				12410D6B26D3560100E69AED /* SecondViewController.swift in Sources */,
 				12410D5926D32BA400E69AED /* ViewController.swift in Sources */,
+				12410D7126D35BA200E69AED /* TearViewController.swift in Sources */,
 				12410D6D26D3569000E69AED /* ThirdViewController.swift in Sources */,
 				12410D5526D32BA400E69AED /* AppDelegate.swift in Sources */,
+				12410D7326D35C9A00E69AED /* IndigoViewController.swift in Sources */,
 				12410D5726D32BA400E69AED /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

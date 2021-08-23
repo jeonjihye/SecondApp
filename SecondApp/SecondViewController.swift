@@ -9,12 +9,16 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    var data:String?
+    @IBOutlet var myLable: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        myLable.text = data
 
         // Do any additional setup after loading the view.
     }
-    
+
 
     /*
     // MARK: - Navigation
